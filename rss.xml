@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ACIER]]></title>
         <description><![CDATA[ACIER]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/acier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 21:02:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 21:02:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/acier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Light painting with pixelstick]]></title>
+            <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5080ae11f6ad71390eca523c2eba50c17928b5da.jpg"></article>]]></description>
+            <link>https://vimeo.com/78163959</link>
+            <guid isPermaLink="false">c9a688b2-aa9e-429b-8da7-1704569ecfce</guid>
+            <pubDate>Fri, 13 May 2016 21:02:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Remembering Prince: What The Purple One Can Teach You About Creativity]]></title>
             <description><![CDATA[<article><h1>Remembering Prince: What The Purple One Can Teach You About Creativity</h1><p>Join Entrepreneur and today's most influential business innovators in Denver, May 4. Register Now " Prince, a pioneering musician and creative, died today at 57. This game-changing artist merged his special take on funk and rock into 39 albums, creating classics such as Purple Rain and Little Red Corvette.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f82bbbcf6c1a7fb1116234d47a5656ca64c6d538.jpg"></article>]]></description>
