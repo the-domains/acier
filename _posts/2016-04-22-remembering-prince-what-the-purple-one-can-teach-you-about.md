@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-13T21:02:03.497Z'
+datePublished: '2016-05-13T21:02:10.751Z'
 sourcePath: _posts/2016-04-22-remembering-prince-what-the-purple-one-can-teach-you-about.md
 inFeed: true
 isBasedOnUrl: 'https://www.entrepreneur.com/article/274499'
@@ -27,7 +27,7 @@ author:
   - name: Linda Lacina
     url: 'https://www.entrepreneur.com/author/linda-lacina'
     avatar: {}
-dateModified: '2016-05-13T21:01:59.728Z'
+dateModified: '2016-05-13T21:02:04.058Z'
 title: 'Remembering Prince: What The Purple One Can Teach You About Creativity'
 app_links: []
 publisher:
